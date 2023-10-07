@@ -2,6 +2,8 @@
 
 namespace Akoutroulis\AdventOfCodeSolutions\Y2015\Day3;
 
+use Akoutroulis\AdventOfCodeSolutions\Helpers\Point2D;
+
 final class Day3
 {
     private Point2D $normalSanta;

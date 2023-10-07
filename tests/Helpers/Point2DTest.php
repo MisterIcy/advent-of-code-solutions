@@ -1,12 +1,12 @@
 <?php
 
-namespace Akoutroulis\AdventOfCodeSolutions\Tests\Y2015\Day3;
+namespace Akoutroulis\AdventOfCodeSolutions\Tests\Helpers;
 
-use Akoutroulis\AdventOfCodeSolutions\Y2015\Day3\Point2D;
+use Akoutroulis\AdventOfCodeSolutions\Helpers\Point2D;
 use PHPUnit\Framework\TestCase;
 
 /**
- * @covers \Akoutroulis\AdventOfCodeSolutions\Y2015\Day3\Point2D
+ * @covers \Akoutroulis\AdventOfCodeSolutions\Helpers\Point2D
  */
 class Point2DTest extends TestCase
 {

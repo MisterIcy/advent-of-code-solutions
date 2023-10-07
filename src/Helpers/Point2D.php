@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Akoutroulis\AdventOfCodeSolutions\Y2015\Day3;
+namespace Akoutroulis\AdventOfCodeSolutions\Helpers;
 
 final class Point2D
 {

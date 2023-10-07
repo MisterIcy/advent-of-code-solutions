@@ -5,6 +5,9 @@ namespace Akoutroulis\AdventOfCodeSolutions\Tests\Y2015\Day3;
 use Akoutroulis\AdventOfCodeSolutions\Y2015\Day3\Day3;
 use PHPUnit\Framework\TestCase;
 
+/**
+ * @covers \Akoutroulis\AdventOfCodeSolutions\Y2015\Day3\Day3
+ */
 class Day3Test extends TestCase
 {
 
