@@ -1,0 +1,17 @@
+{
+    "name": "akoutroulis/advent-of-code-solutions",
+    "require-dev": {
+        "phpunit/phpunit": "^10.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Akoutroulis\\AdventOfCodeSolutions\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Akoutroulis\\AdventOfCodeSolutions\\Tests\\": "tests/"
+        }
+    },
+    "require": {}
+}
